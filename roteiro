@@ -1,0 +1,77 @@
+ping pong imaginario
+
+                                               ROTEIRO:
+        Trata de um jogo jogado no console, em que será idealizado em um jogo de ping-pong com estruturas
+        dinamicas mas nada visual, será passado para o player o tamanho(x,y) da quadra, da bolinha e das 
+        raquetes. Com isso já estruturado, de forma aleatoria a bolinha irá se movimentar, sendo passado as
+        cordenadas ao player, já passado desde o inicio onde ela- a bolinha -se inicia, e agora em que 
+        direção ela está indo, mas sem falar a cordenada exata onde ela batera, deixando assim para que o 
+        player faça a conta, e se acertar, continuará mais 9 vezes (totalizando 10), caso erre, reiniciará 
+        com outra completamente nova, terá um total de 3 chances para acertar 10 vezes seguida.
+
+        O Que É Preciso:
+        - Cordenadas
+          - da quadra
+          - da bolinha
+          - das raquetes
+          - do movimento de cada uma
+        - Onde a bolinha parara
+
+        Cordenadas:
+        - quadra, x = 80, y = 65
+        - bolinha 5 redonda
+        - raquetes, x = 15, y = 3
+        - começa, x = 40, y = 37,5-42,5
+
+        Descrição para player: - comunicado  * pergunta  = resposta   ... jogo rodando  != do esperado
+
+step01        
+
+        - Seja bem-vindo, começando agora este jogo você terá de se esforçar para acertar, nada que exiga movimentos
+        rápidos, mas um raciocionio rápido, acerte onde a bolinha irá cair...apenas isso.
+
+        * acha que consegue? -1 para sim, 0 para não-.
+
+        = != 
+
+        - 1 para sim, 0 para não.
+
+        = != novamente
+
+        - 1 para sim, 0 para não. Caso não queira, o X é serventia do terminal :)
+
+        = 0
+
+        - Beleza, até mais.
+
+        = 1
+
+        - SIM? haha, vamos ver, a seguir estarão as regras e cordenadas do objetos, anote eles -as cordenadas- para
+        não se perder.
+
+        - O Ping-Pong Imaginário nada mais é que uma forma de jogar ping-pong sem ver, apenás imaginando onde a  
+          bolinha irá cair, te darei o tamanho da quadra, da bolinha e da raquete, e também as cordenadas de onde elas
+          se iniciam, e para que direção a bolinha está indo, mas onde ela irá tocar no final é com você!
+
+        - Regras - somente tente não demorar para responder, para ficar mais dinamico. E anote as cordenadas.
+
+        - Cordenadas - o x da quadra é 80, e seu y é 65;
+          a bolinha tem 5 de x e y, já que é redonda;
+          as raquetes -sua e do seu adversário- tem o x valendo 15 e y = 3;
+
+        - Onde elas começam -  a bolinha se inicia bem no meio, sendo x = 37,5 até 42,5, y = 29,5 até 35,5;
+                               a raquete começa x = 32,5 até 47,5, y = 3, LEMBRANDO que elas tem seu proprio valor x, 
+                               sendo assim o alcançe delas é de x.
+        
+        - Aguenta, ainda tem que ler, agora vou explicar como funciona. De forma aleatoria a bolinha irá se movimentar, a 
+        cordenada passada será o primeiro movimento da bolinha. Você terá que 'adivinhar' onde ela baterá, o seu 
+        adversário sempre acertará, porque o objetivo do jogo é somente O Você Acertar.
+
+        - Serão 3 chances de vitoria, e ela só será sua se você acertar 10 em uma rodada, espero que tenha ficado claro.
+
+
+        - Start!
+step03        
+
+         
+    
